@@ -1,0 +1,9 @@
+{
+  "name": "farzkaster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@standard-crypto/farcaster-js": "^3.0.7"
+  }
+}
