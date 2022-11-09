@@ -4,6 +4,12 @@ const { AlchemyProvider } = require("@ethersproject/providers");
 
 INFURA_ID = process.env.INFURA_ID;
 
+// Create a Farcaster cast
+// Log to Farcaster account
+// Reply to a cast
+// Register a New Username
+// User join group
+
 const provider = new ethers.providers.InfuraProvider("goerli", INFURA_ID);
 
 const main = async () => {
